@@ -4,7 +4,7 @@
 <br />
 <br />
 <br />
-## 진행방식
+## 진행 방식
 
 ### 1️⃣ 매주 5개의 주제를 선정
 - 5개의 주제에 대해 공부를 한 뒤 정리
@@ -21,3 +21,7 @@
 | <a href="https://github.com/hopak-e">박상호</a> | <a href="https://github.com/shimeeuisuk">심의석</a> | <a href="https://github.com/so191925">심소영</a> | <a href="https://github.com/so0112">신상오</a> | <a href="https://github.com/anotheranotherhoon">이창훈</a> | <a href="https://github.com/StarryPro">한성욱</a> | <a href="https://github.com/kyunghee47">김안나</a> |
 
 <br />
+<br />
+<br />
+## 진행 상황
+- 1주차 (1/25)
