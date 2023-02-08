@@ -24,5 +24,7 @@
 <br />
 
 ## 🏃 진행 상황
-### 1주차 (1/30)
+### 1주차 (1/30) (JavaScript)
 - 스코프, this, 프로토타입, 클로저, 프로미스, 이벤트 루프
+### 2주차 (2/6) (React)
+- props, Virtual DOM, 리덕스, side effect, hooks, React 사용하는 이유, 성능향상을 위해 필요한 것
