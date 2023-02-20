@@ -39,8 +39,11 @@
 
 
 - useRef
-  - useRef는 함수형 컴포넌트에서 ref를 쉽게 사용할 수 있도록 해준다. 
+  - 컴포넌트에서 특정 DOM 요소에 접근하고 싶을 때 ref를 사용한다. (자바스크립트의 document.querySelector() 기능)
+  - 렌더링을 일으키지 않으며, 값이 계속 변경 되지만, 렌더링이 일어나야 화면에 적용이 된다.
+  - 선택하고 싶은 DOM에 ref 값으로 설정해서 사용한다. 해당 DOM 요소를 확인하고 싶으면 .current로 확인
   - useRef는 .current 프로퍼티로 전달된 인자로 초기화된 변경 가능한 ref 객체를 반환한다.
+
 
 - useImperativeHandle
 - useLayoutEffect
