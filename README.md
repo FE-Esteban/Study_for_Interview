@@ -32,3 +32,5 @@
 - HTTP, HTTPS, 도메인 입력시 일어나는 일, TCP/UDP, REST API
 ### 4주차 (2/20) (CSS)
 - display, position, float, z-index, Flex-Grid, 절대단위-상대단위, CSS-in-JS(styled-components), padding-margin, 반응형웹-적응형웹
+### 5주차 (2/27) (JavaScript)
+- 실행 컨텍스트, 호이스팅, es6 문법, immutable-mutable, 얕은복사-깊은복사
